@@ -1,2 +1,3 @@
 [submodule "xAODAnaHelpers"]
-    path = /xAODAnaHelpers
+	path = xAODAnaHelpers
+	url = /xAODAnaHelpers/
